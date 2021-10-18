@@ -1,0 +1,20 @@
+{
+  "name": "jest-supertest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Camilo Galindo R <cgalindorivera@gmail.com>",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "jest": "^27.3.0",
+    "supertest": "^6.1.6"
+  }
+}
