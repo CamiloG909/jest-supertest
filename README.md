@@ -1,1 +1,3 @@
-# Basic jest & supertest
+# Testing API
+
+With Jest & Supertest
